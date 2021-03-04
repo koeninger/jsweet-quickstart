@@ -5,7 +5,7 @@ This is a modification of the JSweet quick start demonstrating how to compile Ja
 ## Usage
 
 ```
-> git clone https://github.com/cincheo/jsweet-quickstart.git
+> git clone https://github.com/koeninger/jsweet-quickstart
 > cd jsweet-quickstart
 > npm run build
 > wrangler publish
